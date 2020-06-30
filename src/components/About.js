@@ -24,9 +24,10 @@ const About = () => {
 
                         </p>
                         <div>
+                                <button>
                         <a href="/" className="home white-text btn yellow darken-2 white-text align-center"
                 
-                        style={{marginTop:'20px'}}> Home </a>
+                        style={{marginTop:'20px'}}> Home </a> </button>
                         </div>
                     
 
