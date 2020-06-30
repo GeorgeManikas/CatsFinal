@@ -7,7 +7,7 @@ const About = () => {
         <div className="container yellow darken-4" style={{marginTop:'5rem'}}>
 
             <div className="row valign-wrapper" style={{padding:'40px'}}>
-                <div className="col s12 m6 push-s2 push-l2">
+                <div className="col s12  push-l2">
                     <img src={require('../components/george.jpg')} alt="george.jpg"  className="circle responsive-img" style={{width:'50%', height:'50%', opacity:'0.8'}} />
                 </div>
                 <div className="col s12 m6">
