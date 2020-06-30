@@ -94,7 +94,14 @@ const CatDetails = () => {
 
                             </div>
                         </div>
+
+                            <div className="row">
+                        <div className="col s12">
+
                             <a className="btn yellow darken-2 align-right" href="/"> Home Page </a>
+                        </div>
+
+                        </div>
                     </div>
                 </div>
             </div>
