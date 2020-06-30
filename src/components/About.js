@@ -23,17 +23,17 @@ const About = () => {
                         <br></br>
 
                         </p>
-                        <div>
+                        
+                    
+
+                </div>
+            </div>
+                <div>
                                 
                         <a href="/" className="white-text btn yellow darken-2 white-text "
                 
                         style={{marginTop:'20px', cursor:'pointer' }}> Home </a> 
                         </div>
-                    
-
-                </div>
-            </div>
-
         </div>
     )
 }
