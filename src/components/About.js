@@ -23,10 +23,11 @@ const About = () => {
                         <br></br>
 
                         </p>
+                        <div>
                         <a href="/" className="home white-text btn yellow darken-2 white-text align-center"
-
+                
                         style={{marginTop:'20px'}}> Home </a>
-
+                        </div>
                     
 
                 </div>
