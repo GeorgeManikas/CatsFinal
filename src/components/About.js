@@ -27,7 +27,7 @@ const About = () => {
                                 
                         <a href="/" className="white-text btn yellow darken-2 white-text "
                 
-                        style={{marginTop:'20px'}}> Home </a> 
+                        style={{marginTop:'20px', cursor:'pointer' }}> Home </a> 
                         </div>
                     
 
