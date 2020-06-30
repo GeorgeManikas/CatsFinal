@@ -57,7 +57,7 @@ const HeroImage = (props) => {
           <img src={images[0]} alt="not found"/>
           <div className="caption center-align">
             <h3>CatVille</h3>
-            <h5 className="bold black-text text-darken-3">
+            <h5 className="bold white-text text-darken-3">
               find the right cat for you...
             </h5>
           </div>
@@ -75,7 +75,7 @@ const HeroImage = (props) => {
           <img src={value.images[2]} alt="not found"/>
           <div className="caption right-align">
             {/* <h3>CatVille</h3> */}
-            <h5 className="black-text text-lighten-1">
+            <h5 className="white-text text-lighten-1">
               ...choose what character your cat wants to have 
             </h5>
           </div>
@@ -84,7 +84,7 @@ const HeroImage = (props) => {
           <img src={value.images[3]} alt="not found"/>
           <div className="caption center-align">
             {/* <h3>CatVille</h3> */}
-            <h5 className="light grey-text text-lighten-1">
+            <h5 className="light white-text ">
               and search among the most suitable cat breeds for you...
             </h5>
           </div>
@@ -93,7 +93,7 @@ const HeroImage = (props) => {
           <img src={value.images[4]} alt="not found" />
           <div className="caption left-align">
             {/* <h3>CatVille</h3> */}
-            <h5 className="black-text text-lighten-1">
+            <h5 className="white-text text-lighten-1">
               finding the perfect cat isn't as hard as it seems !!!
             </h5>
           </div>
