@@ -1,5 +1,5 @@
 import React from 'react'
-import {Link} from 'react-router-dom';
+
 const About = () => {
     return (
 
@@ -24,10 +24,10 @@ const About = () => {
 
                         </p>
                         <div>
-                                <button>
-                        <Link to="/" className="home white-text btn yellow darken-2 white-text align-center"
+                                
+                        <a href="/" className="white-text btn yellow darken-2 white-text "
                 
-                        style={{marginTop:'20px'}}> Home </Link> </button>
+                        style={{marginTop:'20px'}}> Home </a> 
                         </div>
                     
 
