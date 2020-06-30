@@ -28,13 +28,17 @@ const About = () => {
 
                 </div>
             </div>
-                <div>
+            <div className="row">
+                   <div className="col s12>
                                 
                         <a href="/" className="white-text btn yellow darken-2 white-text "
                 
-                        style={{marginTop:'20px', cursor:'pointer' }}> Home </a> 
-                        </div>
+                        style={{marginTop:'20px', cursor:'pointer' }}> Home </a>
+                   </div>
+                   
+            </div>
         </div>
+    
     )
 }
 
